@@ -1,13 +1,16 @@
 ---
 title: "R Introduction"
-date: 2021-12-13T22:08:06+08:00
-draft: true
+date: 2021-12-13
+linktitle: R Introduction
 description:
-categories:
- - 
+type:
+ - post
+ - posts
 featured_image:
-author: "wxx"
-
+author: 
+  name: "wxx"
+series:
+- Hugo 101
 ---
 
 
