@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "王小玺"
+title = "首页"
 theme = "KeepIt"
 
 paginate = 12
@@ -11,7 +11,7 @@ googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "https://gitee.com/dolphinxi/picbed/raw/master/laeaproj2-1.png" #comment it to use gravatar
+    avatar = "https://gitee.com/dolphinxi/picbed/raw/master/me.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
