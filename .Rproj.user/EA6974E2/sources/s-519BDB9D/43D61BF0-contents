@@ -45,9 +45,9 @@ R语言最显著的特征是自由，这得益于它的免费、开源和易扩�
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/unnamed-chunk-1-1.png" width="373"/>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/299-circular-stacked-barplotBig.png", width="373"/>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/Surfer_travel.png", width="750"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/unnamed-chunk-1-1.png" width="373"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/299-circular-stacked-barplotBig.png", width="373"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/Surfer_travel.png", width="750"/>
     </figure>
     <span id="1-plots">图1：R语言制图示例（来源：https://www.r-graph-gallery.com/index.html）</span>
 </center>
@@ -60,14 +60,14 @@ R语言起源于另一门语言——[S语言](https://www.whoishostingthis.com/
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/ross-ihaka.jpg" width="150"/>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/robert-gentleman.jpg", width="150"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/ross-ihaka.jpg" width="150"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/robert-gentleman.jpg", width="150"/>
     </figure>
     <span id="1-creator">图2：R语言创始人Ross Ihaka（左）和Robert Gentleman（右）</span>
 </center>
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/plot.png", width="750"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/plot.png", width="750"/>
     </figure>
     <span id="1-pkgnumber">图3：2006-2020历年CRAN上发布的R包数量</span>
 </center>
@@ -124,36 +124,36 @@ R语言是由数据处理、统计计算和图形绘制等一系列工具组成�
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210411005715746.png", width="600"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210411005715746.png", width="600"/>
     </figure>
     <span id="1-website">第一步：R语言官方网站</span>
 </center>
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210411005350779.png", width="600"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210411005350779.png", width="600"/>
     </figure>
     <span id="1-mirrors">第二步：选择合适的镜像入口</span>
 </center>
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210411074240233.png", width="600"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210411074240233.png", width="600"/>
     </figure>
     <span id="1-downloados">第三步：根据操作系统选择</span>
 </center>
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210411074354803.png", width="600"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210411074354803.png", width="600"/>
     </figure>
     <span id="1-downloadbase">第四步：下载base版本安装文件</span>
 </center>
 
 <center>
     <figure>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210413232757715.png", width="250"/>
-    <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210413234613177.png", width="400"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210413232757715.png", width="250"/>
+    <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210413234613177.png", width="400"/>
     </figure>
     <span id="1-downloados">第五步：打开exe文件进行默认安装</span>
 </center>
@@ -163,7 +163,7 @@ R语言是由数据处理、统计计算和图形绘制等一系列工具组成�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210410003455675.png" width="750"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210410003455675.png" width="750"/>    
     </figure>    
     <span id="1-rgui">图4：Windows 10系统中的R语言界面
     </span>
@@ -186,18 +186,18 @@ RStudio可以免费在其[官网](https://www.rstudio.com/)（https://www.rstudi
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414212529534.png" width="750"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414212529534.png" width="750"/>    
     </figure>    
     <span id="1-rstudio-interface">图5：Windows 10系统中的RStudio语言界面</span>
 </center>
 
-A区域是Console区，也被称为控制台，它和RGui编辑器的界面（[图4](#1-rgui)）差不多。这里可以写代码，也可以显示代码运行的过程和结果。但是我们并不建议在这个窗口编写代码，一方面是因为写好的代码不方便保存，二是如果不小心写错代码，就得重新写。该区域上方会显示当前的工作路径为`D:/RProjects/R-book`，点击旁边的箭头则显示当前路径中的文件，右边的<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414230253242.png" alt="image-20210414230253242" style="zoom: 50%;" />按钮则用来清空显示，快捷键`Ctrl + L`也可以快速实现这一操作。
+A区域是Console区，也被称为控制台，它和RGui编辑器的界面（[图4](#1-rgui)）差不多。这里可以写代码，也可以显示代码运行的过程和结果。但是我们并不建议在这个窗口编写代码，一方面是因为写好的代码不方便保存，二是如果不小心写错代码，就得重新写。该区域上方会显示当前的工作路径为`D:/RProjects/R-book`，点击旁边的箭头则显示当前路径中的文件，右边的<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414230253242.png" alt="image-20210414230253242" style="zoom: 50%;" />按钮则用来清空显示，快捷键`Ctrl + L`也可以快速实现这一操作。
 
-B区域是代码编辑区。刚启动RStudio时可能会不显示这个区域，而是A区域占据了整个B区域，可以通过依次点击菜单栏的`File` → `New File` → `R Script`来创建新的代码文件，也可以利用快捷键`Ctrl + Shift + N`。写好代码后，选中代码或把光标停留着某行，点击右边<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414225527118.png" alt="image-20210414225527118" style="zoom: 67%;" />图标或快捷键`Ctrl + Enter`来运行这行代码，其结果会在A区域中显示。在代码编写过程中，请及时保存。
+B区域是代码编辑区。刚启动RStudio时可能会不显示这个区域，而是A区域占据了整个B区域，可以通过依次点击菜单栏的`File` → `New File` → `R Script`来创建新的代码文件，也可以利用快捷键`Ctrl + Shift + N`。写好代码后，选中代码或把光标停留着某行，点击右边<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414225527118.png" alt="image-20210414225527118" style="zoom: 67%;" />图标或快捷键`Ctrl + Enter`来运行这行代码，其结果会在A区域中显示。在代码编写过程中，请及时保存。
 
-C区域是画图安包求助台。Plots界面显示绘制好的图形，可以对其缩放并导出，不仅可以导出为图片格式文件，还可以导出为PDF文件或粘贴到剪切板上。Packages界面显示已经安装的R包的名称、描述和版本信息，打勾则代表该包已经被加载到当前环境中，同时也可以通过点击<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414231046633.png" alt="image-20210414231046633" style="zoom: 55%;" />或<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414231215334.png" alt="image-20210414231215334" style="zoom:55%;" />来安装或升级R包。Help界面可以很方便地搜索关键词并显示帮助文档。Tutorial界面提示初学者通过安装**learnr**包来学习RStudio教程。Viewer界面用来显示本地网页文件，用得比较少。
+C区域是画图安包求助台。Plots界面显示绘制好的图形，可以对其缩放并导出，不仅可以导出为图片格式文件，还可以导出为PDF文件或粘贴到剪切板上。Packages界面显示已经安装的R包的名称、描述和版本信息，打勾则代表该包已经被加载到当前环境中，同时也可以通过点击<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414231046633.png" alt="image-20210414231046633" style="zoom: 55%;" />或<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414231215334.png" alt="image-20210414231215334" style="zoom:55%;" />来安装或升级R包。Help界面可以很方便地搜索关键词并显示帮助文档。Tutorial界面提示初学者通过安装**learnr**包来学习RStudio教程。Viewer界面用来显示本地网页文件，用得比较少。
 
-D区域是工作空间展示区。Environment界面用来记录代码运行过程中生成的各种对象，包括数据、数值、函数等。History界面显示所有在Console区内代码执行地历史记录，可以将其保存下来，也可以将选中的部分发送到Console区（<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414232730915.png" alt="image-20210414232730915" style="zoom:60%;" />）或代码编辑区（<img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210414232912126.png" alt="image-20210414232912126" style="zoom:60%;" />）。Files界面显示工作路径下的所有文件，并且可以对其进行删除或重命名。Connections界面显示连接的外部数据库，用得非常少。
+D区域是工作空间展示区。Environment界面用来记录代码运行过程中生成的各种对象，包括数据、数值、函数等。History界面显示所有在Console区内代码执行地历史记录，可以将其保存下来，也可以将选中的部分发送到Console区（<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414232730915.png" alt="image-20210414232730915" style="zoom:60%;" />）或代码编辑区（<img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210414232912126.png" alt="image-20210414232912126" style="zoom:60%;" />）。Files界面显示工作路径下的所有文件，并且可以对其进行删除或重命名。Connections界面显示连接的外部数据库，用得非常少。
 
 ### 1.2.2 RStudio的设置
 
@@ -205,7 +205,7 @@ RStudio安装好之后，我们需要进行一些设置从而使后续的使用�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416113231133.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416113231133.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-setting">图6：RStudio的常规设置选项</span>
 </center>
@@ -216,7 +216,7 @@ RStudio安装好之后，我们需要进行一些设置从而使后续的使用�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416115005085.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416115005085.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-appearance">图7：RStudio的界面样式的修改</span>
 </center>
@@ -225,7 +225,7 @@ RStudio安装好之后，我们需要进行一些设置从而使后续的使用�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416120410849.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416120410849.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-panelayout">图8：RStudio的窗口布局调整</span>
 </center>
@@ -234,7 +234,7 @@ RStudio安装好之后，我们需要进行一些设置从而使后续的使用�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416121438091.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416121438091.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-packages">图9：设置R包的安装镜像</span>
 </center>
@@ -243,7 +243,7 @@ RStudio安装好之后，我们需要进行一些设置从而使后续的使用�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416123801545.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416123801545.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-code">图10：修改代码默认的编译格式</span>
 </center>
@@ -268,7 +268,7 @@ R包和R语言之间的关系是什么样呢？打个比方，我们在上一节
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416193722382.png" width="400"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416193722382.png" width="400"/>    
     </figure>    
     <span id="1-rstudio-pkginstall">图11：RStudio中R包的安装方法之一</span>
 </center>
@@ -292,7 +292,7 @@ R包安装完成之后，并不能直接使用。只有当它被加载到当前�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416210442990.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416210442990.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-pkglibrary">图12：RStudio中R包的加载方法之一</span>
 </center>
@@ -301,14 +301,14 @@ R包安装完成之后，并不能直接使用。只有当它被加载到当前�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416214741210.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416214741210.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-pkghelp">图13：ggplot2包的帮助文档界面</span>
 </center>
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210416223503734.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210416223503734.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-fcthelp">图14：dim函数的帮助文档</span>
 </center>
@@ -394,7 +394,7 @@ R代码是由命令、参数、对象、符号等一系列要素组成的。虽�
 
 <center>    
     <figure class="half">    
-        <img src="https://gitee.com/dolphinxi/picbed/raw/master/image-20210420140458733.png" width="500"/>    
+        <img src="https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/image-20210420140458733.png" width="500"/>    
     </figure>    
     <span id="1-rstudio-help">图15：RStudio自带的学习资源</span>
 </center>

@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "https://gitee.com/dolphinxi/picbed/raw/master/me.jpg" #comment it to use gravatar
+    avatar = "https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/me.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
