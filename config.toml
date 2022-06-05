@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "https://wxx-images.oss-cn-hangzhou.aliyuncs.com/me.png" #comment it to use gravatar
+    avatar = "https://wxx-images.oss-cn-hangzhou.aliyuncs.com/picbed-master/me.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "王小玺的个人博客，分享学习、工作与生活。" # site description
@@ -65,7 +65,7 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "https://github.com/wxx2020"
+    GitHub = "https://github.com/wxx2020/"
     #Linkedin = "xxxx"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
@@ -119,7 +119,7 @@ disqusShortname = "yourdiscussshortname"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
     #Googlescholar = "xxxx"
-    Researchgate = "https://www.researchgate.net/profile/Xiaoxi-Wang-4"
+    Researchgate = "https://www.researchgate.net/profile/Xiaoxi-Wang-4/"
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
 
