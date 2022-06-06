@@ -68,10 +68,10 @@ R语言起源于另一门语言——[S语言](https://www.whoishostingthis.com/
 >
 > R 语言是解释运行的语言（与 C 语言的编译运行不同），它的执行速度比 C 语言慢得多，不利于优化。但它在语法层面提供了更加丰富的数据结构操作并且能够十分方便地输出文字和图形信息，所以它广泛应用于数学尤其是统计学领域。[^3]
 
-[^1]: 关于S语言的更多内容请查看：https://baike.baidu.com/item/S%E8%AF%AD%E8%A8%80/2440117?fr=aladdin。
+[^1]: 关于S语言的更多内容请查看：https://baike.baidu.com/item/S%E8%AF%AD%E8%A8%80/2440117?fr=aladdin 。
 
-[^2]: 关于R语言发展历史的更多内容请查看：https://www.stat.auckland.ac.nz/~ihaka/downloads/Massey.pdf和https://cran.r-project.org/doc/html/interface98-paper/paper_2.html。
-[^3]: 参考资料来源：https://www.runoob.com/r/r-tutorial.html。
+[^2]: 关于R语言发展历史的更多内容请查看：https://www.stat.auckland.ac.nz/~ihaka/downloads/Massey.pdf和https://cran.r-project.org/doc/html/interface98-paper/paper_2.html 。
+[^3]: 参考资料来源：https://www.runoob.com/r/r-tutorial.html 。
 
 ### 1.3 R语言的优势与缺点
 
@@ -97,7 +97,7 @@ R语言是由数据处理、统计计算和图形绘制等一系列工具组成�
 
 金无足赤，白璧微瑕。尽管R语言具有众多的优点，但这并不能掩盖其自身存在的劣势。第一，R语言需要通过编写代码的方式来实现相关功能，这对那些不具编程经验和对统计方法掌握得不是很好的初学者是一大挑战，因此其学习曲线是比较陡峭的。第二，尽管R语言及其扩展包的更新是对当前环境的完善补充，但过快的更新有时会造成许多功能和学习资源跟不上版本的更迭，这就要求R用户必须定期更新，如果不更新会出现很多问题。
 
-[^4]: 详情请查看*An Introduction to R*一书：https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+[^4]: 详情请查看*An Introduction to R*一书：https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf 。
 
 ### 1.4 R语言的获取与安装
 
