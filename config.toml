@@ -1,7 +1,7 @@
 baseURL = "https://wxx001.netlify.app/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
-title = "Home"
+title = "主页"
 theme = "KeepIt"
 
 paginate = 12
@@ -24,17 +24,17 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "博客"
     url = "/posts/"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
+    name = "分类"
     url = "/categories/"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "关于"
     url = "/about"
     weight = 4
 
