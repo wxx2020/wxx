@@ -9,6 +9,7 @@ enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
+hasCJKLanguage = true
 
 [sitemap]
   changefreq = "weekly"
