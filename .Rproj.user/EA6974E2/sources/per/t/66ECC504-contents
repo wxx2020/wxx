@@ -24,18 +24,23 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
   [[menu.main]]
-    name = "博客"
-    url = "/posts/"
+    name = "知识博客"
+    url = "/博客/"
     weight = 1
-
+    
   [[menu.main]]
-    name = "分类"
-    url = "/categories/"
+    name = "文献阅读"
+    url = "/文献/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "标签分类"
+    url = "/分类/"
     weight = 3
 
   [[menu.main]]
-    name = "关于"
-    url = "/about"
+    name = "关于作者"
+    url = "/关于"
     weight = 4
 
 [params]
