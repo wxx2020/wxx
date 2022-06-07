@@ -1,7 +1,7 @@
 baseURL = "https://wxx001.netlify.app/"
 languageCode = "zh"
 defaultContentLanguage = "zh"
-title = "主页"
+title = "王小玺"
 theme = "KeepIt"
 
 paginate = 12
@@ -46,7 +46,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "Wang Xiaoxi"               # Author's name
-    subtitle = "王小玺的个人博客"       # Subtitle
+    subtitle = "大王的王，小王的小，玉玺的玺。"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"

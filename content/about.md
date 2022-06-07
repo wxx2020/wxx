@@ -1,5 +1,5 @@
 +++
-title = "关于作者"
+title = "About"
 date = "2022-06-01"
 aliases = ["about-wxx"]
 [ author ]
