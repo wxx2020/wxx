@@ -3,7 +3,7 @@
     "path": "D:/RProjects/wxx/content/posts/001初识R语言.md",
     "project_path": "content/posts/001初识R语言.md",
     "type": "markdown",
-    "hash": "1543549450",
+    "hash": "3929245578",
     "contents": "",
     "dirty": false,
     "created": 1654831124497.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "105,41",
-        "scrollLine": "103"
+        "cursorPosition": "15,24",
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1654831806,
+    "lastKnownWriteTime": 1655286822,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1654831806401,
+    "last_content_update": 1655286822814,
     "read_only": false,
     "read_only_alternatives": []
 }

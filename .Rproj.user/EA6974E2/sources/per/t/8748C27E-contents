@@ -11,7 +11,7 @@ description: ~
 featured_image: https://wxx-images.oss-cn-hangzhou.aliyuncs.com/r-ocean.jpg
 ---
 
-为了方便学习，本文在讲解过程中会穿插补充一些内容，包括对文中内容的解释或扩展、提示读者注意、补充的作业任务和使用小技巧等。这些内容将会采用注释的形式出现，本书采用不同的[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)符号开头从而对注释内容加以分辨：
+为了方便学习，在讲解过程中会穿插补充一些内容，包括对文中内容的解释或扩展、提示读者注意、补充的作业任务和使用小技巧等。这些内容将会采用注释的形式出现，通过采用不同的[emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)符号开头从而对注释内容加以分辨：
 
 - :pushpin:表示对相关内容的进一步解释或扩展，通常针对的是出现在上一段的内容；
 - :loudspeaker: 表示注释内容需要读者注意，通常是新手在初次使用时经常出现的错误；
